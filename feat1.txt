@@ -1,4 +1,4 @@
 - stock v3
-- promotion v1
+- promotion v0
 - log v.3
 - order v.4
